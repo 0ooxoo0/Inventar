@@ -33,8 +33,5 @@ public class HandController : MonoBehaviour
             transform.position = Input.mousePosition;
             anim.SetBool("Compression", false);
         }
-
     }
-
-    
 }
